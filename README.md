@@ -1,5 +1,5 @@
 # TownSquareProject
-Current TODO List:
+Current TODO List: <br>
 12 Oct 2018:
 What still needs to be done:
 --All the hanging signs still need to go in
